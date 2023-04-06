@@ -1,7 +1,7 @@
 # Assembly Design of Aircraft PART 9911833 Spar
 The project aimed to analyze a technical 2D drawing of an aircraft wing front spar and use CATIA to develop a 3D model of both the assembly jig and the front spar, while also providing an overview of the assembly process for the 9911833 spar.
 
-DESIGN OBJECTIVE
+# DESIGN OBJECTIVE
 Designing the spar in accordance with the 2D layout, followed by the conversion of the 2D drafting to a 3D model. All measurements and structural features must be consistent with the 2D drafting.
 
 ![9911833 Assembly](https://user-images.githubusercontent.com/55625291/230431132-87f28158-46ad-4fdd-8677-793b99d3b30d.jpg)
